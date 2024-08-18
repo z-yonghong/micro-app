@@ -26,7 +26,7 @@ registerMicroApps([
     activeRule: '/sub-vue'
   },
   {
-    name: 'subReact',
+    name: 'sub-react',
     entry: '//localhost:3002',
     container: '#container',
     activeRule: '/sub-react'
